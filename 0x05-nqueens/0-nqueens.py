@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """
     N-queen problem
     The next algo solve any N queen in any NxN
